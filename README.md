@@ -10,7 +10,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="mailto:joaopy@gmail.com">
+  <a href="mailto:jooaopy@gmail.com">
     <img src="https://img.shields.io/badge/email-contato-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/joaoowy7_">

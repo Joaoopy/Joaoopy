@@ -1,81 +1,35 @@
-<!-- HEADER ANIMADO (SVG CUSTOM) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:000000&height=120&section=header&text=JOAO&fontColor=00FF00&fontSize=40&animation=fadeIn&fontAlignY=50"/>
-</p>
+<img src="./assets/header.svg" alt="João — Desenvolvedor Full Stack · Software e Automação" width="100%">
 
-<!-- ANIMAÇÃO TERMINAL -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Automação+de+Sistemas;Cibersegurança" />
-</p>
+Desenvolvo sistemas completos, com API, painel web e integrações, e crio automações e bots em Node.js. Tenho interesse em inteligência artificial e cibersegurança e estudo as duas áreas de forma contínua.
 
-<!-- BADGES -->
-<p align="center">
-  <a href="mailto:jooaopy@gmail.com">
-    <img src="https://img.shields.io/badge/email-contato-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/joaoowy7_">
-    <img src="https://img.shields.io/badge/instagram-joaoowy7_-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Joaoopy">
-    <img src="https://img.shields.io/badge/github-joaopy-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Joaoopy&style=for-the-badge&color=00FF00"/>
-</p>
+## Foco
 
----
+- **Full Stack:** APIs REST, painéis web e banco de dados em projetos Node.js.
+- **Automação:** bots e integrações com serviços externos, como Discord e Mercado Pago.
+- **Segurança aplicada:** confirmação de pagamentos direto na API do provedor, controle de acesso por cargo e proteção contra spam e raids.
 
-<!-- SVG TITLE: SOBRE -->
-<p>
-  <img src="https://img.shields.io/badge/ABOUT-00FF00?style=for-the-badge&labelColor=000000"/>
-</p>
+## Tecnologias
 
-Desenvolvedor focado em Python, automação e fundamentos de cibersegurança.  
-Aprendizado baseado em prática, construção de projetos e entendimento real de sistemas.
+| | |
+|---|---|
+| **Uso em projetos** | JavaScript · Node.js · Express · discord.js · SQLite · HTML · APIs REST · Webhooks · Git |
+| **Deploy** | PM2 · Nginx · Render |
+| **Em estudo** | Inteligência artificial · Cibersegurança |
 
-- Localização: Brasil  
-- Foco: Python, Automação, Segurança  
-- Evolução contínua através de projetos  
+## Projetos
 
----
+**[invite-system](https://github.com/Joaoopy/invite-system)**
+Controle de convites para servidores Discord: bot com slash commands, API REST, painel web e banco SQLite.
+`Node.js` `SQLite` `HTML`
 
-<!-- SVG TITLE: STACK -->
-<p>
-  <img src="https://img.shields.io/badge/STACK-00FF00?style=for-the-badge&labelColor=000000"/>
-</p>
+**[zerobug-pay](https://github.com/Joaoopy/zerobug-pay)**
+Cobrança Pix via Mercado Pago dentro de tickets do Discord, com confirmação de pagamento por webhook, log financeiro e bloqueio de cobrança duplicada.
+`Node.js` `Express` `SQLite` `Mercado Pago`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,vscode,bash" />
-</p>
+**[eden-guard](https://github.com/Joaoopy/eden-guard)**
+Bot anti-raid modular para Discord: detecção de entrada em massa, anti-spam, filtro de contas novas e lockdown automático.
+`Node.js` `discord.js` `SQLite`
 
----
+## Contato
 
-<!-- SVG TITLE: ESTATÍSTICAS -->
-<p>
-  <img src="https://img.shields.io/badge/STATS-00FF00?style=for-the-badge&labelColor=000000"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Joaoopy&show_icons=true&hide_border=true&theme=dark"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaoopy&hide_border=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopy&layout=compact&hide_border=true&theme=dark"/>
-</p>
-
----
-
-<!-- TERMINAL FINAL -->
-<p>
-  <img src="https://img.shields.io/badge/TERMINAL-00FF00?style=for-the-badge&labelColor=000000"/>
-</p>
-
-```bash
-user@joao:~$ whoami
-Joao - Python Developer
-
-user@joao:~$ focus
-Automation & Cybersecurity
-
-user@joao:~$ status
-learning... █
+[Email](mailto:SEU_EMAIL_AQUI) · [Instagram](https://instagram.com/joaoowy7_) · [GitHub](https://github.com/Joaoopy)
